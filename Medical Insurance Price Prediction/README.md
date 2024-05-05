@@ -1,4 +1,4 @@
-You have to perform data analytics on a medical insurance charges dataaset. 
+I have to perform data analytics on a medical insurance charges dataaset. 
 This is a filtered and modified version of the Medical Insurance Price Prediction dataset, available under the CC0 1.0 Universal License on the Kaggle website.
 
 <h5>About Dataset
@@ -28,7 +28,7 @@ How can machine learning models be used to improve the efficiency and profitabil
 
 >> Objectives
 >> 
-In this project, I will:
+In this project, you will:
 
 Load the data as a pandas dataframe
 Clean the data, taking care of the blank entries
